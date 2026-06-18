@@ -1,0 +1,6 @@
+jupyterlab
+notebook
+pandas
+numpy
+matplotlib
+openpyxl

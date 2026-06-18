@@ -1,0 +1,11 @@
+file,rows_approx,columns
+724080-13739-2001,72,whitespace-delimited weather training file
+AAA_Fuel_Prices.csv,1580,"Month_of_Price, County, Fuel, Price, PhysicalUnit"
+LaborSheetData.csv,42,"Store, Business_Date, Hour, Day_Part, Transactions, Net_Sales, Labor_Hours, Drive_Thru_Avg_Seconds, Crew_Count, Manager, Weather, Promotion_Flag, Customer_Satisfaction, Timestamp"
+M3_AAA_Fuel_Prices.csv,1580,"Month_of_Price, County, Fuel, Price, PhysicalUnit"
+M3_Most_Popular_Baby_Boy_Names__Illinois_1980-2013.csv,850,"Rank, Year, Name, Frequency"
+M3_auto-mpg-tabs.csv,398,"Unnamed: 0, mpg, cylinders, displacement, horsepower, weight, accelartion, model year, carname"
+M5_AAA_Fuel_Prices-1.csv,1580,"Month_of_Price, County, Fuel, Price, PhysicalUnit"
+M5_AAA_Fuel_Prices.csv,1580,"Month_of_Price, County, Fuel, Price, PhysicalUnit"
+Most_Popular_Baby_Boy_Names__Illinois_1980-2013.csv,850,"Rank, Year, Name, Frequency"
+auto-mpg-tabs.csv,398,"Unnamed: 0, mpg, cylinders, displacement, horsepower, weight, accelartion, model year, carname"

@@ -10,7 +10,7 @@ import pandas as pd
 # setting console display width
 pd.set_option('display.width',200)
 # set path to the data file
-dataFile = '/Users/yuzhang/Dropbox/Academia/Lecturer/I&C_SCI_X426.62/Assignments/United States Cancer Statistics, 1999-2011 Incidence.txt'
+dataFile = '../Data/United States Cancer Statistics, 1999-2011 Incidence.txt'  # optional dataset; not included in this refreshed package
 # load the file with first row as column headers, set the sep option to '\t' because the data fields are separated by tab
 dataFrame = pd.read_csv(dataFile,header=0,sep='\t')
 #grab te first 638 rows, because the ending rows are just notes and not data
