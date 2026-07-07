@@ -1,0 +1,25 @@
+Dataset,BusinessQuestion
+Sales Analytics,What regions generate the highest revenue?
+Sales Analytics,Which categories are most profitable?
+Sales Analytics,How do discounts affect margins?
+Marketing Campaign,Which channel has the highest conversion rate?
+Marketing Campaign,Which campaigns deliver highest ROI?
+Marketing Campaign,How does spend relate to revenue?
+HR Attrition,Which departments have higher attrition?
+HR Attrition,How do overtime and satisfaction relate to attrition?
+HR Attrition,What employee groups may need retention support?
+Finance Credit Risk,Which factors are associated with default?
+Finance Credit Risk,How does credit score relate to default?
+Finance Credit Risk,Which loan purposes have higher risk?
+Healthcare Diabetes,Which factors are associated with diabetes risk?
+Healthcare Diabetes,How do BMI and glucose relate to outcome?
+Healthcare Diabetes,Which groups should be prioritized for screening?
+Manufacturing,Which machines have higher failure risk?
+Manufacturing,How do vibration and temperature relate to failures?
+Manufacturing,When is preventive maintenance needed?
+Customer Churn,Which contract types have highest churn?
+Customer Churn,How do charges and tenure relate to churn?
+Customer Churn,What retention actions are recommended?
+Supply Chain,Which carriers have higher late-shipment rates?
+Supply Chain,Which warehouses have higher costs?
+Supply Chain,How do distance and promised days affect delay?

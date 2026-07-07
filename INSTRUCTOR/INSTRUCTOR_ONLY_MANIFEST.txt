@@ -1,0 +1,53 @@
+Instructor-only materials separated from student package:
+
+03_In_Class_Practice/UCI_CDE_Mini_Challenges_Answer_Key/UCI_CDE_Mini_Challenges_Answer_Key.docx
+03_In_Class_Practice/UCI_CDE_Mini_Challenges_Answer_Key/UCI_CDE_Mini_Challenges_Answer_Key.md
+06_AI_Guidance/PartA.Instructor Guide + Lesson Plan + Teaching Notes/AI_3_Hour_Lesson_Plan.docx
+06_AI_Guidance/PartA.Instructor Guide + Lesson Plan + Teaching Notes/AI_Discussion_Questions.docx
+06_AI_Guidance/PartA.Instructor Guide + Lesson Plan + Teaching Notes/AI_Instructor_Guide_Supplement.docx
+06_AI_Guidance/PartA.Instructor Guide + Lesson Plan + Teaching Notes/AI_Live_Demo_Script.docx
+06_AI_Guidance/PartA.Instructor Guide + Lesson Plan + Teaching Notes/AI_Teaching_Notes.docx
+06_AI_Guidance/PartA.Instructor Guide + Lesson Plan + Teaching Notes/AI_Timing_Guide.docx
+06_AI_Guidance/PartA.Instructor Guide + Lesson Plan + Teaching Notes/UCI_CDE_AI_Instructor_Guide_Concise.docx
+06_AI_Guidance/PartB. Student Workbook + Prompt Handbook + AI Cheat Sheet/AI_for_Data_Analysts_with_ChatGPT_Instructor_Notebook.ipynb
+06_AI_Guidance/PartB. Student Workbook + Prompt Handbook + AI Cheat Sheet/BrightMart_AI_Lab_Instructor_Answer_Key.docx
+06_AI_Guidance/PartD. PowerPoint + AI Policy + Ethics Guide + Prompt Log Template/Section_1_Setup_BrightMart_Introduction_Instructor.ipynb
+06_AI_Guidance/PartD. PowerPoint + AI Policy + Ethics Guide + Prompt Log Template/Section_1_Setup_BrightMart_Introduction_Instructor_Notes.docx
+06_AI_Guidance/PartD. PowerPoint + AI Policy + Ethics Guide + Prompt Log Template/Section_3_AI_Assisted_pandas_Programming_Answer_Key.docx
+06_AI_Guidance/PartD. PowerPoint + AI Policy + Ethics Guide + Prompt Log Template/Section_3_AI_Assisted_pandas_Programming_Instructor.ipynb
+06_AI_Guidance/PartD. PowerPoint + AI Policy + Ethics Guide + Prompt Log Template/Section_4_Data_Cleaning_with_AI_Instructor.ipynb
+07_Capstone_Project/UCI_CDE_Assessment_Package.zip
+07_Capstone_Project/UCI_CDE_Capstone_Solution_Notebook_Package.zip
+08_GitHub_Portfolio/01_Instructor_Guide_GitHub_Basics.docx
+Archive/In-Class Notebooks/M1_In-class practice.ipynb
+Archive/In-Class Notebooks/M2A_Importing Packages (and using the package functions).ipynb
+Archive/In-Class Notebooks/M2B_Mathematical Operations.ipynb
+Archive/In-Class Notebooks/M2C_Python Basics.ipynb
+Archive/In-Class Notebooks/M2D_Python Debugging.ipynb
+Archive/In-Class Notebooks/M2E_Writing Your Own Functions.ipynb
+Archive/In-Class Notebooks/M3A_Intro To Handling Dates In Pandas.ipynb
+Archive/In-Class Notebooks/M3B_Loading and Describing Data With Pandas.ipynb
+Archive/In-Class Notebooks/M3C_Selecting Data In A DataFrame.ipynb
+Archive/In-Class Notebooks/M3D_Setting Values In A DataFrame.ipynb
+Archive/In-Class Notebooks/M4A_Intro To Handling Dates In Pandas.ipynb
+Archive/In-Class Notebooks/M4B_Introduction to Groupby.ipynb
+Archive/In-Class Notebooks/M4C_Writing A DataFrame To CSV.ipynb
+Archive/In-Class Notebooks/M5A_Python_Visualization.ipynb
+Archive/In-Class Notebooks/M5B_Using Apply On A DataFrame.ipynb
+Archive/In-Class Notebooks/M5C_Plotting With Pandas.ipynb
+Archive/In-Class Notebooks/M6_K-Means_Clustering_Iris.ipynb
+Archive/In-Class Notebooks/M7_Assignment_Data_Science_Models.ipynb
+Archive/In-Class Notebooks/M8_Assignment_LLM_Practice.ipynb
+Archive/M1_In-class practice.ipynb
+Archive/M2_Importing Packages (and using the package functions).ipynb
+Archive/M2_Mathematical Operations.ipynb
+Archive/M2_Python Basics.ipynb
+Archive/M2_Python Debugging.ipynb
+Archive/M2_Writing Your Own Functions.ipynb
+Archive/M3_Intro To Handling Dates In Pandas.ipynb
+Archive/M3_Loading and Describing Data With Pandas.ipynb
+Archive/M3_Selecting Data In A DataFrame.ipynb
+Archive/M3_Setting Values In A DataFrame.ipynb
+Archive/M4_Intro To Handling Dates In Pandas.ipynb
+Archive/M4_Introduction to Groupby.ipynb
+Archive/M4_Writing A DataFrame To CSV.ipynb

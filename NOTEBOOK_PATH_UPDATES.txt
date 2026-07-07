@@ -1,0 +1,32 @@
+Notebooks updated with Colab path note and 05_Datasets path fixes:
+
+Archive/M4_Introduction to Groupby.ipynb
+Archive/M3_Setting Values In A DataFrame.ipynb
+Archive/M3_Loading and Describing Data With Pandas.ipynb
+Archive/M4_Writing A DataFrame To CSV.ipynb
+Archive/M4_Intro To Handling Dates In Pandas.ipynb
+Archive/M3_Selecting Data In A DataFrame.ipynb
+Archive/M1_In-class practice.ipynb
+Archive/M3_Intro To Handling Dates In Pandas.ipynb
+03_In_Class_Practice/In-Class Notebooks/M3D_Setting Values In A DataFrame.ipynb
+03_In_Class_Practice/In-Class Notebooks/M5C_Plotting With Pandas.ipynb
+03_In_Class_Practice/In-Class Notebooks/M5B_Using Apply On A DataFrame.ipynb
+03_In_Class_Practice/In-Class Notebooks/M3C_Selecting Data In A DataFrame.ipynb
+03_In_Class_Practice/In-Class Notebooks/M3B_Loading and Describing Data With Pandas.ipynb
+03_In_Class_Practice/In-Class Notebooks/M4B_Introduction to Groupby.ipynb
+03_In_Class_Practice/In-Class Notebooks/M3A_Intro To Handling Dates In Pandas.ipynb
+03_In_Class_Practice/In-Class Notebooks/M1_In-class practice.ipynb
+03_In_Class_Practice/In-Class Notebooks/M4C_Writing A DataFrame To CSV.ipynb
+03_In_Class_Practice/In-Class Notebooks/M6_K-Means_Clustering_Iris.ipynb
+03_In_Class_Practice/In-Class Notebooks/M4A_Intro To Handling Dates In Pandas.ipynb
+Archive/In-Class Notebooks/M3D_Setting Values In A DataFrame.ipynb
+Archive/In-Class Notebooks/M5C_Plotting With Pandas.ipynb
+Archive/In-Class Notebooks/M5B_Using Apply On A DataFrame.ipynb
+Archive/In-Class Notebooks/M3C_Selecting Data In A DataFrame.ipynb
+Archive/In-Class Notebooks/M3B_Loading and Describing Data With Pandas.ipynb
+Archive/In-Class Notebooks/M4B_Introduction to Groupby.ipynb
+Archive/In-Class Notebooks/M3A_Intro To Handling Dates In Pandas.ipynb
+Archive/In-Class Notebooks/M1_In-class practice.ipynb
+Archive/In-Class Notebooks/M4C_Writing A DataFrame To CSV.ipynb
+Archive/In-Class Notebooks/M6_K-Means_Clustering_Iris.ipynb
+Archive/In-Class Notebooks/M4A_Intro To Handling Dates In Pandas.ipynb
